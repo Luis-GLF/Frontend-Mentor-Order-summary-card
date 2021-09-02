@@ -125,6 +125,8 @@ button:hover {
   color: var(--dark-blue);
 }
 
+/* ======================================== */
+
 /* attribution */
 
 section.attribution {
@@ -139,6 +141,8 @@ section.attribution {
   color: var(--bright-blue);
   text-decoration: none;
 }
+
+/* ======================================== */
 
 /* MEDIA */
 
